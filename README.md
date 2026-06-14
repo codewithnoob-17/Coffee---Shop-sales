@@ -96,6 +96,3 @@ Introduce upselling strategies to increase the Average Bill Per Person.
 Replicate successful sales strategies from Hell's Kitchen across other stores.
 
 
-#PowerBI #DataAnalytics #BusinessAnalytics #DataVisualization #Dashboard #MBA #AnalyticsProject #DataAnalyst #PowerBIProjects
-
-This version is professional enough for GitHub, LinkedIn, and your MBA/Data Analytics resume.
